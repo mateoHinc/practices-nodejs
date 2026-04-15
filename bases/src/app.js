@@ -1,1 +1,3 @@
-console.log("La prueba funciona!!!");
+const { emailTemplate } = require("./js-foundation/template");
+
+console.log(emailTemplate);
